@@ -1,7 +1,5 @@
 package com.myapp.roomdatabasepractice.core
 
-import android.app.Application
-import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.myapp.roomdatabasepractice.core.database.ContactsDao
